@@ -1,0 +1,4 @@
+users.db
+venv
+.DS_Store
+.vscode/settings.json
