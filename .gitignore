@@ -2,3 +2,5 @@ users.db
 venv
 .DS_Store
 .vscode/settings.json
+*.zip
+__pycache__
